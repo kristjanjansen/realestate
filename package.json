@@ -1,0 +1,15 @@
+{
+  "name": "realestate",
+  "version": "0.0.0",
+  "description": "Estonian real estate listing parser",
+  "dependencies": {
+    "async": "~0.9.0",
+    "cheerio": "~0.17.0",
+    "csv-parser": "~1.4.1",
+    "csv-write-stream": "~0.2.0",
+    "proj4": "~2.1.4",
+    "proj4js-defs": "0.0.1",
+    "request": "~2.36.0",
+    "stream-transform": "0.0.4"
+  }
+}
